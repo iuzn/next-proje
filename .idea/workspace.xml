@@ -11,9 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92660079-3727-4582-a2c5-0e0d29b6c323" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/sayfa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sayfa.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sayfa.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596117704759</updated>
       <workItem from="1596117705958" duration="4618000" />
-      <workItem from="1596124445768" duration="5400000" />
+      <workItem from="1596124445768" duration="5563000" />
     </task>
     <servers />
   </component>

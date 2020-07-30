@@ -6,10 +6,15 @@ function HomePage() {
       <Head>
         <title>Deneme Sayfası</title>
       </Head>
-      <h1 class="baslik">Bu bir denemedir.</h1>
-      <style jsx>{`
-        .baslik{
+      <h1>Bu bir denemedir.</h1>
+      <style global jsx>{`
+        h1{
         font-size: 34px;
+        }
+        body{
+        color: blueviolet;
+        background-color: darkslategray;
+        
         }
 `}</style>
     </Layout>
