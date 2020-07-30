@@ -9,6 +9,9 @@ function Navigation() {
       <Link href="/about">
         <a>Hakkımda</a>
       </Link>
+      <Link href="/sayfa">
+        <a>Sayfa</a>
+      </Link>
     </nav>
   );
 }
