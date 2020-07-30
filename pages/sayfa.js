@@ -7,16 +7,6 @@ function HomePage() {
         <title>Deneme Sayfası</title>
       </Head>
       <h1>Bu bir denemedir.</h1>
-      <style global jsx>{`
-        h1{
-        font-size: 34px;
-        }
-        body{
-        color: blueviolet;
-        background-color: darkslategray;
-        
-        }
-`}</style>
     </Layout>
   );
 }
